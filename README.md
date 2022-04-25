@@ -1,4 +1,4 @@
-# Search Shortcut ⌨🔍
+# Search Shortcut ⌨🔎
 
 Search Shortcut is a browser extension which allows you to activate the searchbox of any website with a keyboard shortcut.
 
